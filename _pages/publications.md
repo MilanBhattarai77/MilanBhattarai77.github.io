@@ -1,5 +1,5 @@
 ---
-title: "publications"
+title: "Publications"
 collection: publications
 permalink: /publications/
 excerpt: 'Academic Publications'
