@@ -12,8 +12,8 @@ permalink: /projects/
 ### Thesis Project <br>
 * Grocery Demand Prediction.
  <p>Developed a grocery demand prediction model using Exponential Smoothing and ARIMA, optimizing inventory, forescating   
- upcoming seasonal sales price and quantity. It was my Bachelor's degree major project at Everest Engineering College.</p>
- <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> Files </p><br>
+ upcoming seasonal sales price and quantity. It was my Bachelor's degree major project at Everest Engineering College.
+ <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> Files <br> </p>
     
 ### Projects <br>
 * MCQ Quiz Exam
