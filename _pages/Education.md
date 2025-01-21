@@ -6,24 +6,23 @@ Currently, I am actively seeking for Ph.D. opportunities.<br>
 
 ### Bachelor in Information Technology Engineering (2018 - 2023)
 <div class="header" style="display: flex; align-items: center;">
-  <img src="../images/KUlogo.png" alt="logo" style="width:50px; margin-right: 10px;">
-  <span style="font-size: 18px;"> Pokhara University, Nepal</span>
+  <img src="../images/everestcollegelogo.png" alt="logo" style="width:50px; margin-right: 10px;">
+  <span style="font-size: 18px;"> Everest Engineering College, Pokhara University, Nepal</span>
 </div>
 <hr>
-* Major Courses : Power System, Power Electronics,Electric Machines, Control System and Engineering, Renewable Energy, Smart Grid, Engineering Projects and C/C++ 
+* Major Courses : C/C++, Programming in Java, Microprocessor, Web Technology, Cloud Computing, Data Mining
 
-### High Level School ( 10 +2), Science (2015 - 2017)<br>
+### High Level School ( 10 +2), Science (2016 - 2018)<br>
 <div class="header" style="display: flex; align-items: center;">
-  <img src="../images/Prasadilogo.png" alt="logo" style="width:50px; margin-right: 10px;">
-  <span style="font-size: 18px;">Prasadi Academy, Nepal</span>
+  <img src="../images/Bernhartdlogo.jpeg" alt="logo" style="width:50px; margin-right: 10px;">
+  <span style="font-size: 18px;"> Kathmandu Bernhardt, Nepal</span>
 </div>
 <hr>
-* Percentage 79.5 %
+
 
 ### School Leaving Certificate (SLC) <br>
 <div class="header" style="display: flex; align-items: center;">
-  <img src="../images/Padmodayalogo.png" alt="logo" style="width:50px; margin-right: 10px;">
-  <span style="font-size: 18px;">Padmodaya Public Model Secondary School, Nepal</span> </div>
+  <img src="../images/sakuralogo.png" alt="logo" style="width:50px; margin-right: 10px;">
+  <span style="font-size: 18px;">Sakura Memorial Boarding School, Nepal</span> </div>
 <hr>
-* Percentage 80.5 %
 <br>
