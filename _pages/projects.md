@@ -10,7 +10,9 @@ permalink: /projects/
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
 <br>
 ### Thesis Project <br>
-* Grocery Demand Prediction: An Experimental Approach in Everest Engineering College, Nepal.
+* Grocery Demand Prediction.
+<p>Developed a grocery demand prediction model using Exponential Smoothing and ARIMA, optimizing inventory and reducing waste, for my Bachelor's degree major project in IT Engineering at Everest Engineering College.It is used for 
+Price and Quantity prediction.</p>
   <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> <br>
   Files <br>
     
@@ -34,7 +36,7 @@ permalink: /projects/
 
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
-During working as Research Assistant I had hand-on exprience in following areas:<br>
+While working as Research Assistant, I had hand-on exprience in following areas:<br>
 1.Research in GDELT dataset<br>
 2.Data Cleaning and Pre-processing<br>
 3.Web Scraping<br>
