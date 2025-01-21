@@ -25,26 +25,13 @@ permalink: /projects/
    <a href="https://github.com/MilanBhattarai77/Python-mini-projects" target="_blank"> <br>
   Files <br>
 * GDELT Data Processing Pipeline <br>
-  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank"> Files </a> <br>
-  Files<br>
+  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank">  <br>
+  Files <br>
   
 
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
-* Distribution Systems Design <br>
-    Learned : Load Flow Analysis, Equipments ( Transformers, Cables, Capacitor Banks Sizing )
-  <a href="../files/Report.pdf" target="_blank"> <br>
-  View Single Line Diagram  <br>
-  
-* Transmission Line Designs <br>
-    Learned : Overhead and Underground Transmission Line Design upto 400kV
-  <a href="../files/Desk Study Report Teku - Ratnapark.pdf" target="_blank"> <br>
-  View Sample Report <br>
 
-* Substation Design Study <br>
-    Learned : Power flows, Protection Coordination Study
-  <a href="../files/33 kV SLD.pdf" target="_blank"> <br>
-  View Single Line Diagram <br>
 
   
  
