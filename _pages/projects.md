@@ -18,12 +18,15 @@ permalink: /projects/
 * MCQ Quiz Exam
   <a href="https://github.com/MilanBhattarai77/MCQ-Quiz-Exam" target="_blank"> <br>
   Files <br>
+  
 * Blood Bank And Donar Management System
-   <a href="https://github.com/MilanBhattarai77/Blood-Bank-And-Donar-Management-System" target="_blank"> <br>
+  <a href="https://github.com/MilanBhattarai77/Blood-Bank-And-Donar-Management-System" target="_blank"> <br>
   Files <br>
+  
 * Python mini projects
-   <a href="https://github.com/MilanBhattarai77/Python-mini-projects" target="_blank"> <br>
+  <a href="https://github.com/MilanBhattarai77/Python-mini-projects" target="_blank"> <br>
   Files <br>
+  
 * GDELT Data Processing Pipeline <br>
   <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank">  <br>
   Files <br>
@@ -31,6 +34,12 @@ permalink: /projects/
 
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
+During working as Research Assistant I had hand-on exprience in following areas:
+1.Research in GDELT dataset
+2.Data Cleaning and Pre-processing
+3.Web Scraping
+4.D-Duplication Identification
+
 
 
   
