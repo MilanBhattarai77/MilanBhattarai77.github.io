@@ -12,27 +12,29 @@ permalink: /projects/
 ### Thesis Project <br>
 * Grocery Demand Prediction.
  <p>Developed a grocery demand prediction model using Exponential Smoothing and ARIMA, optimizing inventory, forescating   
- upcoming seasonal sales price and quantity. It was my Bachelor's degree major project at Everest Engineering College.
- <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> Files <br> </p>
+ upcoming seasonal sales price and quantity. It was my Bachelor's degree major project at Everest Engineering College.</p>
+   <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> Files <br> 
+   
     
 ### Projects <br>
 * MCQ Quiz Exam
 <p>Developed a web-based MCQ Quiz Exam application using HTML, CSS, JavaScript, PHP, and MySQL, automating exam management and performance evaluation as part of a mini-project at Everest Engineering College. The application supports various subjects, provides user feedback, and is compatible with major web browsers. </p>
-  <a href="https://github.com/MilanBhattarai77/MCQ-Quiz-Exam" target="_blank"> Files
+  <a href="https://github.com/MilanBhattarai77/MCQ-Quiz-Exam" target="_blank"> Files <br>
+
   
 * Blood Bank And Donar Management System
 <p>Developed a web-based Blood Bank and Donor Management System (BBDMS) using HTML, CSS, Bootstrap5, JavaScript, jQuery, PHP, and MySQL, facilitating efficient donor-recipient communication and blood stock management as part of a Minor Project in IT Engineering at Everest Engineering College.</p>
-  <a href="https://github.com/MilanBhattarai77/Blood-Bank-And-Donar-Management-System" target="_blank"> <br>
-  Files <br>
+  <a href="https://github.com/MilanBhattarai77/Blood-Bank-And-Donar-Management-System" target="_blank"> Files <br>
+
   
 * Python mini projects
-  <a href="https://github.com/MilanBhattarai77/Python-mini-projects" target="_blank"> <br>
-  Files <br>
+  <a href="https://github.com/MilanBhattarai77/Python-mini-projects" target="_blank"> Files <br>
+
   
 * GDELT Data Processing Pipeline <br>
 <p> Developed a pipeline to extract data in CSV format from GDELT, sourced from raw ZIP files available at 15-minute intervals across different time ranges.</p>
-  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank"> <br>
-  Files <br>
+  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank"> Files <br>
+
   
 
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
