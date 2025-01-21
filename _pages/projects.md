@@ -14,19 +14,19 @@ permalink: /projects/
   <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> <br>
   Files <br>
     
-### Mini Projects <br>
-* MCQ-Quiz-Exam
-  <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
+### Projects <br>
+* MCQ Quiz Exam
+  <a href="https://github.com/MilanBhattarai77/MCQ-Quiz-Exam" target="_blank"> <br>
   Files <br>
-* Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
-   <a href="../files/Analysis on Bode Bot, Nyquist Plot and PID Controller.pdf" target="_blank"> <br>
+* Blood Bank And Donar Management System
+   <a href="https://github.com/MilanBhattarai77/Blood-Bank-And-Donar-Management-System" target="_blank"> <br>
   Files <br>
-* Distance Protection
-   <a href="../files/Distance Protection.pdf" target="_blank"> <br>
+* Python mini projects
+   <a href="https://github.com/MilanBhattarai77/Python-mini-projects" target="_blank"> <br>
   Files <br>
-* Load Flow Analysis <br>
-  Matlab :<a href="../files/Load Flow - Matlab Simulink.pdf" target="_blank"> Files </a> <br>
-  Etap   :<a href="../files/LF-Etap.pdf" target="_blank"> Files<br>
+* GDELT Data Processing Pipeline <br>
+  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank"> Files </a> <br>
+  Files<br>
   
 
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
