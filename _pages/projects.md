@@ -16,12 +16,12 @@ permalink: /projects/
    
     
 ### Projects <br>
-* MCQ Quiz Exam
+* MCQ Quiz Exam<br>
 Developed a web-based MCQ Quiz Exam application using HTML, CSS, JavaScript, PHP, and MySQL, automating exam management and performance evaluation as part of a mini-project at Everest Engineering College. The application supports various subjects, provides user feedback, and is compatible with major web browsers.<br>
   <a href="https://github.com/MilanBhattarai77/MCQ-Quiz-Exam" target="_blank"> Files <br>
 
   
-* Blood Bank And Donar Management System
+* Blood Bank And Donar Management System <br>
 Developed a web-based Blood Bank and Donor Management System (BBDMS) using HTML, CSS, Bootstrap5, JavaScript, jQuery, PHP, and MySQL, facilitating efficient donor-recipient communication and blood stock management as part of a Minor Project in IT Engineering at Everest Engineering College. <br>
   <a href="https://github.com/MilanBhattarai77/Blood-Bank-And-Donar-Management-System" target="_blank"> Files <br>
 
@@ -39,10 +39,10 @@ Developed a web-based Blood Bank and Donor Management System (BBDMS) using HTML,
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
 While working as Research Assistant, I had hand-on exprience in following areas:<br>
-1.Research in GDELT dataset<br>
-2.Data Cleaning and Pre-processing<br>
-3.Web Scraping<br>
-4.D-Duplication Identification<br>
+1. Research in GDELT dataset<br>
+2. Data Cleaning and Pre-processing<br>
+3. Web Scraping<br>
+4. D-Duplication Identification<br>
 
 
 
