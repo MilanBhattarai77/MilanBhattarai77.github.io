@@ -28,17 +28,17 @@ permalink: /projects/
   Files <br>
   
 * GDELT Data Processing Pipeline <br>
-  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank">  <br>
+  <a href="https://github.com/MilanBhattarai77/GDELT-Data-Processing-Pipeline" target="_blank"> <br>
   Files <br>
   
 
 <span style="font-size: 25px; font-weight: bold;"> Industry Experiences Projects </span>
 <hr style="border: 0; height: 5px; background-color: green;">
-During working as Research Assistant I had hand-on exprience in following areas:
-1.Research in GDELT dataset
-2.Data Cleaning and Pre-processing
-3.Web Scraping
-4.D-Duplication Identification
+During working as Research Assistant I had hand-on exprience in following areas:<br>
+1.Research in GDELT dataset<br>
+2.Data Cleaning and Pre-processing<br>
+3.Web Scraping<br>
+4.D-Duplication Identification<br>
 
 
 
