@@ -10,9 +10,9 @@ permalink: /projects/
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
 <br>
 ### Thesis Project <br>
-* Grocery Demand Prediction.
- <p>Developed a grocery demand prediction model using Exponential Smoothing and ARIMA, optimizing inventory, forescating   
- upcoming seasonal sales price and quantity. It was my Bachelor's degree major project at Everest Engineering College.</p>
+* Grocery Demand Prediction.<br>
+ Developed a grocery demand prediction model using Exponential Smoothing and ARIMA, optimizing inventory, forescating   
+ upcoming seasonal sales price and quantity. It was my Bachelor's degree major project at Everest Engineering College.<br>
    <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> Files <br> 
    
     
