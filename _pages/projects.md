@@ -10,12 +10,12 @@ permalink: /projects/
 <span style="font-size: 14px;"><em>(Note: All reports are shortened, for detail reports, simulation files and codes, you can reach out to me !!)</em></span>
 <br>
 ### Thesis Project <br>
-* Microcontroller Driven MPPT System to Enhance Photovoltaic Efficiency: An Experimental Approach in Dhulikhel, Nepal.
-  <a href="../files/Mppt.pdf" target="_blank"> <br>
+* Grocery Demand Prediction: An Experimental Approach in Everest Engineering College, Nepal.
+  <a href="https://github.com/MilanBhattarai77/Grocery-Demand-Prediction" target="_blank"> <br>
   Files <br>
     
 ### Mini Projects <br>
-* Thyristor Firing Circuits
+* MCQ-Quiz-Exam
   <a href="../files/Thyristor Firing Circuits.pdf" target="_blank"> <br>
   Files <br>
 * Control Circuit Analysis ( Bode, Nyquist plot and PID Controllers)
