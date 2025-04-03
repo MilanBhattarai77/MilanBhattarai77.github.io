@@ -15,7 +15,7 @@ Currently, I am actively seeking for Master opportunities.<br>
 ### High Level School ( 10 +2), Science (2016 - 2018)<br>
 <div class="header" style="display: flex; align-items: center;">
   <img src="../images/Bernhartdlogo.jpeg" alt="logo" style="width:50px; margin-right: 10px;">
-  <span style="font-size: 18px;"> Kathmandu Bernhardt, Nepal</span>
+  <span style="font-size: 18px;"> Kathmandu Bernhardt Secondary School, Nepal</span>
 </div>
 <hr>
 
