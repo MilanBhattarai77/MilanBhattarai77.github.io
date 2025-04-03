@@ -1,7 +1,7 @@
 ---
 permalink: /education/
 ---
-Currently, I am actively seeking for Ph.D. opportunities.<br>
+Currently, I am actively seeking for Master opportunities.<br>
 <hr style="border: 0; height: 5px; background-color: green;">
 
 ### Bachelor in Information Technology Engineering (2018 - 2023)
