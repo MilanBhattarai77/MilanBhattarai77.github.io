@@ -1,5 +1,6 @@
 ---
 permalink: /education/
+title: Education Background
 ---
 Currently, I am actively seeking for Master opportunities.<br>
 <hr style="border: 0; height: 5px; background-color: green;">
